@@ -1,0 +1,5 @@
+{
+  "name": "Robo AI - Image Editor",
+  "description": "An application that allows users to edit images using text prompts with the power of Robo AI.",
+  "requestFramePermissions": []
+}
